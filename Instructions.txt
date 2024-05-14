@@ -1,0 +1,6 @@
+Instructions
+
+- cd into the folder
+- run npm install
+- run quasar dev
+- then go and my full Quasar course at https://dannys.link/quasar 👍
